@@ -1,0 +1,22 @@
+
+EMPLOYMENT AGREEMENT
+
+This Employment Agreement is made between DataSystems LLC ("Company") and Sarah Johnson ("Employee") effective January 1, 2024.
+
+1. POSITION AND DUTIES
+   Employee shall serve as Software Engineer and perform duties as assigned by the Company's management team.
+
+2. COMPENSATION
+   Employee shall receive an annual salary of $95,000 payable in bi-weekly installments.
+
+3. BENEFITS
+   Employee shall be entitled to health insurance, dental coverage, and 15 days of paid vacation annually.
+
+4. CONFIDENTIALITY
+   Employee agrees to maintain confidentiality of all proprietary information and trade secrets of the Company.
+
+5. TERMINATION
+   Either party may terminate this agreement with thirty (30) days written notice. Company may terminate immediately for cause.
+
+6. NON-COMPETE
+   Employee agrees not to work for competing companies within a 50-mile radius for a period of one year after termination.

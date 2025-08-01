@@ -1,0 +1,22 @@
+
+NON-DISCLOSURE AGREEMENT
+
+This Non-Disclosure Agreement ("Agreement") is entered into on 8/1/2025 between TechCorp Inc. ("Disclosing Party") and John Smith ("Receiving Party").
+
+1. CONFIDENTIAL INFORMATION
+   The Disclosing Party shall provide confidential information including but not limited to technical specifications, business plans, financial data, and proprietary algorithms.
+
+2. OBLIGATIONS OF RECEIVING PARTY
+   The Receiving Party shall not disclose, use, or reproduce any confidential information for any purpose other than evaluating potential business relationship.
+
+3. TERM AND TERMINATION
+   This Agreement shall remain in effect for a period of five (5) years from the date first written above, unless terminated earlier by mutual consent.
+
+4. LIABILITY LIMITATION
+   Notwithstanding anything to the contrary, the maximum liability of either party shall not exceed $100,000 for any damages arising from this agreement.
+
+5. DISPUTE RESOLUTION
+   Any disputes arising under this Agreement shall be resolved through binding arbitration in accordance with the rules of the American Arbitration Association.
+
+6. GOVERNING LAW
+   This Agreement shall be governed by the laws of the State of California without regard to conflict of law principles.
